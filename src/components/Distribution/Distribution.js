@@ -28,7 +28,6 @@ function Distribution({
   const total = items.reduce((total, { percentage }) => total + percentage, 0)
 
   // Sort by percentage
-  items = items.sort((a, b) => b.percentage - a.percentage)
 
   return (
     <section>

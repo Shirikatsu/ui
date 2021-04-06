@@ -64,7 +64,6 @@ function Distribution({
     percentage
   }) => total + percentage, 0); // Sort by percentage
 
-  items = items.sort((a, b) => b.percentage - a.percentage);
   return /*#__PURE__*/React.createElement("section", null, heading && /*#__PURE__*/React.createElement(_StyledDiv, {
     _css: 1 * GU
   }, typeof heading === 'string' ? /*#__PURE__*/React.createElement(_StyledH, {
