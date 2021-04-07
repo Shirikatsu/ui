@@ -10,7 +10,7 @@ import { initContainsComponent } from '../../utils/contains-component.js';
 import { Root } from '../../providers/Root/Root.js';
 import { Viewport } from '../../providers/Viewport/Viewport.js';
 import { PublicUrl } from '../../providers/PublicUrl/PublicUrl.js';
-import { Theme } from '../../theme/Theme2.js';
+import { Theme } from '../../theme/Theme.js';
 
 const {
   Provider: ContainsAppViewProvider,

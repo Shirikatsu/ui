@@ -11,7 +11,7 @@ import { KEY_ESC } from '../../utils/keycodes.js';
 import { warn } from '../../utils/environment.js';
 import { stylingProps } from '../../utils/components.js';
 import { noop } from '../../utils/miscellaneous.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { useRoot } from '../../providers/Root/Root.js';
 import { springs } from '../../style/springs.js';
 

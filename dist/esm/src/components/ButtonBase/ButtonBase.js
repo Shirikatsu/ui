@@ -5,7 +5,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import FocusVisible from '../FocusVisible/FocusVisible.js';
 import { RADIUS } from '../../style/constants.js';
 import { warnOnce } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { KEY_ENTER } from '../../utils/keycodes.js';
 import { textStyle } from '../../style/text-styles.js';
 import { unselectable } from '../../utils/css.js';

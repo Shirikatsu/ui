@@ -4,7 +4,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import { useInside as o } from '../../../node_modules/use-inside/dist/index.js';
 import DiscButton from '../DiscButton/DiscButton.js';
 import Popover from '../Popover/Popover.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { GU } from '../../style/constants.js';
 import IconQuestion from '../../icons/components/IconQuestion.js';
 import { textStyle } from '../../style/text-styles.js';

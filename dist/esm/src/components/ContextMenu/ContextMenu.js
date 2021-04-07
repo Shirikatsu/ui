@@ -6,7 +6,7 @@ import reactOnclickout from '../../../node_modules/react-onclickout/index.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import IconEllipsis from '../../icons/components/IconEllipsis.js';
 import IconDown from '../../icons/components/IconDown.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { springs } from '../../style/springs.js';
 import { RADIUS } from '../../style/constants.js';
 

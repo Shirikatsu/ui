@@ -4,7 +4,7 @@ import React, { useMemo } from 'react';
 import propTypes from '../../../node_modules/prop-types/index.js';
 import { unselectable } from '../../utils/css.js';
 import { GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { textStyle } from '../../style/text-styles.js';
 
 const MODE_INDICATOR = 'indicator';

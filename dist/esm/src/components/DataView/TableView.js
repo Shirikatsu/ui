@@ -6,7 +6,7 @@ import { useLayout } from '../Layout/Layout.js';
 import CheckBoxWithTheme from '../Input/Checkbox.js';
 import { ToggleButton } from './ToggleButton.js';
 import { OpenedSurfaceBorder } from './OpenedSurfaceBorder.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
 import { springs } from '../../style/springs.js';

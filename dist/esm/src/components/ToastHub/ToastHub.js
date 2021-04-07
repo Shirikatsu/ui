@@ -8,7 +8,7 @@ import RootPortal from '../RootPortal/RootPortal.js';
 import { useViewport } from '../../providers/Viewport/Viewport.js';
 import { stylingProps } from '../../utils/components.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { textStyle } from '../../style/text-styles.js';
 import { springs } from '../../style/springs.js';
 

@@ -71,6 +71,7 @@ function Distribution({
         <ul
           css={`
             margin-top: ${3 * GU}px;
+            padding-left: 0px;
           `}
         >
           {items.map(({ item, percentage }, index) => {
@@ -125,6 +126,7 @@ function Distribution({
                     </div>
                     <div
                       css={`
+                        padding-left: ${1 * GU}px;
                         flex-shrink: 0;
                       `}
                     >

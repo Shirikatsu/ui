@@ -6,7 +6,7 @@ import { INPUT_BORDER, START_DATE, END_DATE } from './consts.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import { RADIUS, GU } from '../../style/constants.js';
 import IconCalendar from '../../icons/components/IconCalendar.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { textStyle } from '../../style/text-styles.js';
 
 var _StyledDiv = _styled("div").withConfig({

@@ -7,7 +7,7 @@ import { Transition, animated as extendedAnimated } from '../../../node_modules/
 import { Inside as i } from '../../../node_modules/use-inside/dist/index.js';
 import Text from '../Text/Text.js';
 import chevronSvg from './assets/chevron.svg.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { unselectable } from '../../utils/css.js';
 import { springs } from '../../style/springs.js';
 import { noop } from '../../utils/miscellaneous.js';

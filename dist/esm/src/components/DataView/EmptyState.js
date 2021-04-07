@@ -5,7 +5,7 @@ import LoadingRing from '../LoadingRing/LoadingRing.js';
 import Link from '../Link/Link.js';
 import illustrationRedImage from './assets/empty-state-illustration-red.png.js';
 import illustrationBlueImage from './assets/empty-state-illustration-blue.png.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
 import { usePublicUrl } from '../../providers/PublicUrl/PublicUrl.js';

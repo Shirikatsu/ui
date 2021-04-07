@@ -6,7 +6,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import memoize_1 from '../../../node_modules/lodash/memoize.js';
 import dayjs_min from '../../../node_modules/dayjs/dayjs.min.js';
 import { formatHtmlDatetime, difference } from '../../utils/date.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import IconClock from '../../icons/components/IconClock.js';
 import { textStyle } from '../../style/text-styles.js';
 import { unselectable } from '../../utils/css.js';

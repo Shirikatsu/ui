@@ -2,7 +2,7 @@ import _extends from '../../../node_modules/@babel/runtime/helpers/extends.js';
 import React from 'react';
 import Tag from '../Tag/Tag.js';
 import { warnOnce } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 
 function deprecationWarning() {
   warnOnce('Badge', '"Badge" and its variants have been deprecated. Please use "Tag" instead.');

@@ -7,7 +7,7 @@ import { useLayout } from '../Layout/Layout.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import { unselectable } from '../../utils/css.js';
 import { warnOnce, warn } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { textStyle } from '../../style/text-styles.js';
 import { RADIUS, GU } from '../../style/constants.js';
 

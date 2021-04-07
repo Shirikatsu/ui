@@ -7,7 +7,7 @@ import { Inside as i } from '../../../node_modules/use-inside/dist/index.js';
 import ButtonIcon from '../Button/ButtonIcon.js';
 import { useViewport } from '../../providers/Viewport/Viewport.js';
 import RootPortal from '../RootPortal/RootPortal.js';
-import { useTheme } from '../../theme/Theme2.js';
+import { useTheme } from '../../theme/Theme.js';
 import { KEY_ESC } from '../../utils/keycodes.js';
 import { springs } from '../../style/springs.js';
 import { GU } from '../../style/constants.js';
