@@ -12,7 +12,7 @@ import { useClickOutside } from '../../hooks/useClickOutside.js';
 import { useKeyDown } from '../../hooks/useKeyDown.js';
 import { KEY_ESC } from '../../utils/keycodes.js';
 import { springs } from '../../style/springs.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { unselectable } from '../../utils/css.js';
 
 var _StyledDiv = _styled("div").withConfig({

@@ -7,7 +7,7 @@ import overpassRegularWoff2 from './assets/overpass/overpass-regular.woff2.js';
 import overpassSemiBoldWoff2 from './assets/overpass/overpass-semibold.woff2.js';
 import overpassMonoLightWoff2 from './assets/overpass-mono/overpass-mono-light.woff2.js';
 import { PublicUrl } from '../../providers/PublicUrl/PublicUrl.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { textStyle } from '../../style/text-styles.js';
 import { DEFAULT_FONT_FAMILY, MONOSPACE_FONT_FAMILY } from '../../utils/font.js';
 

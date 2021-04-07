@@ -2,7 +2,7 @@ import _extends from '../../../node_modules/@babel/runtime/helpers/extends.js';
 import _styled from 'styled-components';
 import React from 'react';
 import SidePanel from './SidePanel.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 
 var _StyledDiv = _styled("div").withConfig({
   displayName: "SidePanelSeparator___StyledDiv",

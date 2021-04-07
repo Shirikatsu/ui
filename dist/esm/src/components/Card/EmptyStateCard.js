@@ -5,7 +5,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import { Inside as i } from '../../../node_modules/use-inside/dist/index.js';
 import Card from './Card.js';
 import illustrationDefault from './assets/empty-state-card-illustration-default.png.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { usePublicUrl } from '../../providers/PublicUrl/PublicUrl.js';
 import { warnOnce } from '../../utils/environment.js';
 import { GU } from '../../style/constants.js';

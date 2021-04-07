@@ -8,7 +8,7 @@ import RootPortal from '../RootPortal/RootPortal.js';
 import { useViewport } from '../../providers/Viewport/Viewport.js';
 import { ToastContext } from '../ToastHub/ToastHub.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { springs } from '../../style/springs.js';
 import { textStyle } from '../../style/text-styles.js';
 

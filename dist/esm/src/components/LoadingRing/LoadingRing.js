@@ -3,7 +3,7 @@ import _styled, { keyframes } from 'styled-components';
 import React, { useState, useMemo } from 'react';
 import propTypes from '../../../node_modules/prop-types/index.js';
 import { useInside as o } from '../../../node_modules/use-inside/dist/index.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 
 const spin = keyframes(["from{transform:rotate(0deg);}to{transform:rotate(360deg);}"]);
 const SIZE_SMALL = 14;

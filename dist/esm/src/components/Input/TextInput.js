@@ -3,7 +3,7 @@ import _styled from 'styled-components';
 import React, { useCallback } from 'react';
 import propTypes from '../../../node_modules/prop-types/index.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { textStyle } from '../../style/text-styles.js';
 import { warnOnce } from '../../utils/environment.js';
 

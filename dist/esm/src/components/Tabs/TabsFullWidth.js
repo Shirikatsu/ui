@@ -5,7 +5,7 @@ import { animated as extendedAnimated, Transition } from '../../../node_modules/
 import { useInside as o } from '../../../node_modules/use-inside/dist/index.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import IconDown from '../../icons/components/IconDown.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { useFocusLeave } from '../../hooks/useFocusLeave.js';
 import { KEY_ESC } from '../../utils/keycodes.js';
 import { GU } from '../../style/constants.js';

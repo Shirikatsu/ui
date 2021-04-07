@@ -4,7 +4,7 @@ import React, { useRef, useCallback } from 'react';
 import ButtonIcon from '../Button/ButtonIcon.js';
 import WrapperTextInput from './TextInput.js';
 import IconSearch from '../../icons/components/IconSearch.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import IconCross from '../../icons/components/IconCross.js';
 
 const EMPTY = '';

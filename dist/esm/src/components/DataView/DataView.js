@@ -8,7 +8,7 @@ import { TableView } from './TableView.js';
 import { ListView } from './ListView.js';
 import EmptyState from './EmptyState.js';
 import { warnOnce } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
 import { noop } from '../../utils/miscellaneous.js';

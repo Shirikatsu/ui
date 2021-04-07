@@ -6,7 +6,7 @@ import r from '../../../node_modules/token-amount/dist/index.js';
 import { isAddress } from '../../utils/web3.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { useImageExists } from '../../hooks/useImageExists.js';
 
 var _StyledDiv = _styled("div").withConfig({

@@ -125,7 +125,6 @@ function Distribution({
                     </div>
                     <div
                       css={`
-                        padding-left: ${1 * GU}px;
                         flex-shrink: 0;
                       `}
                     >

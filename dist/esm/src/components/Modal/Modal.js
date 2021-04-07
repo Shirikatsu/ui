@@ -6,7 +6,7 @@ import { animated as extendedAnimated, Transition } from '../../../node_modules/
 import ButtonIcon from '../Button/ButtonIcon.js';
 import EscapeOutside from '../EscapeOutside/EscapeOutside.js';
 import RootPortal from '../RootPortal/RootPortal.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { useViewport } from '../../providers/Viewport/Viewport.js';
 import { springs } from '../../style/springs.js';
 import { cssPx } from '../../utils/css.js';

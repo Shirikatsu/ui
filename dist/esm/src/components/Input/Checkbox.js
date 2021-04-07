@@ -8,7 +8,7 @@ import FocusVisible from '../FocusVisible/FocusVisible.js';
 import { springs } from '../../style/springs.js';
 import { GU, RADIUS } from '../../style/constants.js';
 import { noop } from '../../utils/miscellaneous.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 
 const SIZE = 18;
 const CHECKBOX_RADIUS = 2;

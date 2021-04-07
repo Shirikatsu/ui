@@ -7,7 +7,7 @@ import Bar from '../Bar/Bar.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import { useLayout } from '../Layout/Layout.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import IconArrowLeft from '../../icons/components/IconArrowLeft.js';
 
 var _StyledButtonBase = _styled(ButtonBaseWithFocus).withConfig({

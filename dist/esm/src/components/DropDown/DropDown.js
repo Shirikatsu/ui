@@ -8,7 +8,7 @@ import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import Popover from '../Popover/Popover.js';
 import IconDown from '../../icons/components/IconDown.js';
 import { warnOnce } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { RADIUS, GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
 import { unselectable } from '../../utils/css.js';

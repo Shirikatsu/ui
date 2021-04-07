@@ -11,7 +11,7 @@ import { START_DATE, END_DATE } from './consts.js';
 import { handleDateSelect } from './utils.js';
 import Popover from '../Popover/Popover.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 
 var _StyledPopover = _styled(Popover).withConfig({
   displayName: "DateRangePicker___StyledPopover",

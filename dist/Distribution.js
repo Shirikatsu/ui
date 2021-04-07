@@ -59,7 +59,7 @@ var _StyledDiv4 = _styled__default['default']("div").withConfig({
 var _StyledDiv5 = _styled__default['default']("div").withConfig({
   displayName: "Distribution___StyledDiv5",
   componentId: "r4l1i4-7"
-})(["padding-left:", "px;flex-shrink:0;"], p => p._css5);
+})(["flex-shrink:0;"]);
 
 function Distribution({
   colors,
@@ -124,9 +124,7 @@ function Distribution({
       index: index,
       item: item,
       percentage: percentage
-    }))), /*#__PURE__*/React__default['default'].createElement(_StyledDiv5, {
-      _css5: 1 * constants.GU
-    }, /*#__PURE__*/React__default['default'].createElement("strong", null, percentage, "%"))));
+    }))), /*#__PURE__*/React__default['default'].createElement(_StyledDiv5, null, /*#__PURE__*/React__default['default'].createElement("strong", null, percentage, "%"))));
   })));
 }
 
@@ -165,7 +163,7 @@ Distribution.defaultProps = {
 var _StyledDiv6 = _styled__default['default']("div").withConfig({
   displayName: "Distribution___StyledDiv6",
   componentId: "r4l1i4-8"
-})(["width:", "px;height:", "px;margin-right:", "px;border-radius:50%;flex-shrink:0;"], p => p._css6, p => p._css7, p => p._css8);
+})(["width:", "px;height:", "px;margin-right:", "px;border-radius:50%;flex-shrink:0;"], p => p._css5, p => p._css6, p => p._css7);
 
 function Bullet({
   color
@@ -174,9 +172,9 @@ function Bullet({
     style: {
       background: color
     },
+    _css5: 1 * constants.GU,
     _css6: 1 * constants.GU,
-    _css7: 1 * constants.GU,
-    _css8: 1 * constants.GU
+    _css7: 1 * constants.GU
   });
 }
 

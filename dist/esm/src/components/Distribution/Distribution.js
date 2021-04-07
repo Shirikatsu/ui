@@ -1,7 +1,7 @@
 import _styled from 'styled-components';
 import React from 'react';
 import propTypes from '../../../node_modules/prop-types/index.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
 
@@ -43,7 +43,7 @@ var _StyledDiv4 = _styled("div").withConfig({
 var _StyledDiv5 = _styled("div").withConfig({
   displayName: "Distribution___StyledDiv5",
   componentId: "r4l1i4-7"
-})(["padding-left:", "px;flex-shrink:0;"], p => p._css5);
+})(["flex-shrink:0;"]);
 
 function Distribution({
   colors,
@@ -108,9 +108,7 @@ function Distribution({
       index: index,
       item: item,
       percentage: percentage
-    }))), /*#__PURE__*/React.createElement(_StyledDiv5, {
-      _css5: 1 * GU
-    }, /*#__PURE__*/React.createElement("strong", null, percentage, "%"))));
+    }))), /*#__PURE__*/React.createElement(_StyledDiv5, null, /*#__PURE__*/React.createElement("strong", null, percentage, "%"))));
   })));
 }
 
@@ -149,7 +147,7 @@ Distribution.defaultProps = {
 var _StyledDiv6 = _styled("div").withConfig({
   displayName: "Distribution___StyledDiv6",
   componentId: "r4l1i4-8"
-})(["width:", "px;height:", "px;margin-right:", "px;border-radius:50%;flex-shrink:0;"], p => p._css6, p => p._css7, p => p._css8);
+})(["width:", "px;height:", "px;margin-right:", "px;border-radius:50%;flex-shrink:0;"], p => p._css5, p => p._css6, p => p._css7);
 
 function Bullet({
   color
@@ -158,9 +156,9 @@ function Bullet({
     style: {
       background: color
     },
+    _css5: 1 * GU,
     _css6: 1 * GU,
-    _css7: 1 * GU,
-    _css8: 1 * GU
+    _css7: 1 * GU
   });
 }
 

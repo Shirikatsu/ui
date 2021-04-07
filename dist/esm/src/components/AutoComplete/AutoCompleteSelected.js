@@ -5,7 +5,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import AutoComplete from './AutoComplete.js';
 import { noop, identity } from '../../utils/miscellaneous.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { RADIUS } from '../../style/constants.js';
 
 var _StyledButtonBase = _styled(ButtonBaseWithFocus).withConfig({

@@ -4,7 +4,7 @@ import React from 'react';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import { GU } from '../../style/constants.js';
 import { textStyle } from '../../style/text-styles.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import IconLeft from '../../icons/components/IconLeft.js';
 import IconRight from '../../icons/components/IconRight.js';
 

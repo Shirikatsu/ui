@@ -5,7 +5,7 @@ import propTypes from '../../../node_modules/prop-types/index.js';
 import ButtonBaseWithFocus from '../ButtonBase/ButtonBase.js';
 import { HoverIndicator } from './components.js';
 import { GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { textStyle } from '../../style/text-styles.js';
 
 var _StyledDiv = _styled("div").withConfig({

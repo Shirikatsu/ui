@@ -2,7 +2,7 @@ import _extends from '../../../node_modules/@babel/runtime/helpers/extends.js';
 import _styled from 'styled-components';
 import React from 'react';
 import propTypes from '../../../node_modules/prop-types/index.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 
 var _StyledTable = _styled("table").withConfig({
   displayName: "Table___StyledTable",

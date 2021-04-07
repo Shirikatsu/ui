@@ -6,7 +6,7 @@ import WrapperTextInput from '../Input/TextInput.js';
 import ButtonIcon from '../Button/ButtonIcon.js';
 import { useToast } from '../ToastHub/ToastHub.js';
 import { RADIUS, GU } from '../../style/constants.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { warn } from '../../utils/environment.js';
 import IconCopy from '../../icons/components/IconCopy.js';
 import { textStyle } from '../../style/text-styles.js';

@@ -3,7 +3,7 @@ import React from 'react';
 import ExtendedPropTypes from '../../proptypes.js';
 import { useSpring, interpolate as interpolate$1, animated as extendedAnimated } from '../../../node_modules/react-spring/hooks.js';
 import { warnOnce } from '../../utils/environment.js';
-import { useTheme } from '../../theme/Theme.js';
+import { useTheme } from '../../theme/Theme2.js';
 import { springs } from '../../style/springs.js';
 
 const RADIUS = 2;
